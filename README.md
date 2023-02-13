@@ -1,5 +1,5 @@
 # METEO-_C++_apl
-Weather data collection application in real-time for further processing. The values it's random
+Weather data collection application in real-time for further processing. The values it's random!!!
 A data collection application for real-time weather information can be used to gather and store weather data from various sources such as weather stations, satellite imagery, and weather APIs. This data can then be processed and analyzed to gain insights into current weather patterns and make predictions about future weather conditions.
 
 The application could potentially include the following features:
